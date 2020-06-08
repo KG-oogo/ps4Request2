@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ps4Request2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ps4Request2/static/js/main.bc04901e.chunk.js",
+    "main.js.map": "/ps4Request2/static/js/main.bc04901e.chunk.js.map",
+    "runtime-main.js": "/ps4Request2/static/js/runtime-main.e732e5f5.js",
+    "runtime-main.js.map": "/ps4Request2/static/js/runtime-main.e732e5f5.js.map",
+    "static/js/2.9122b92a.chunk.js": "/ps4Request2/static/js/2.9122b92a.chunk.js",
+    "static/js/2.9122b92a.chunk.js.map": "/ps4Request2/static/js/2.9122b92a.chunk.js.map",
+    "index.html": "/ps4Request2/index.html",
+    "precache-manifest.896c28ec3cd2e257d698ff6206a36afc.js": "/ps4Request2/precache-manifest.896c28ec3cd2e257d698ff6206a36afc.js",
+    "service-worker.js": "/ps4Request2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ps4Request2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9122b92a.chunk.js.LICENSE.txt": "/ps4Request2/static/js/2.9122b92a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ps4Request2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e732e5f5.js",
+    "static/js/2.9122b92a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bc04901e.chunk.js"
+  ]
+}
